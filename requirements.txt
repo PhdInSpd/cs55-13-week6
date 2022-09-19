@@ -1,0 +1,7 @@
+o   -   Build a Next.js-powered full-stack application that 
+x       -   reads data from at least two separate JSON files.
+x       -   Your app must use data fetching and pre-rendered static page generation to display a list of people by name on the home page.
+x       -    Use dynamic routing to create a page component to display complete details about individual persons that retrieves data from
+x           at least two JSON files to render links to other related persons.
+x       -   Use a Repl.it workspace to host your creation.
+x       -   Manage your application's code using a GitHub repository and git from your workspace shell's command-line interface. 
