@@ -1,0 +1,32 @@
+{
+    "persons":[
+      {
+        "name": "Juan Gabriel", 
+        "birth_day": "01/07/1950",
+        "birth_place": "Parácuaro, Mexico",
+        "favorite_song_id": [1,2,3],
+        "id" : 101
+      },
+      {
+        "name": "Rocio Durcal", 
+        "birth_day": "10/04/1944",
+        "birth_place": "Madrid, Spain",
+        "favorite_song_id": [6,7],
+        "id" : 102
+      },
+      {
+        "name": "Antonio Aguilar", 
+        "birth_day": "05/17/1919",
+        "birth_place": "Villanueva, Mexico",
+        "favorite_song_id": [1,5],
+        "id" : 103
+      },      
+      {
+        "name": "Cantarino Lara Benavidez", 
+        "birth_day": "11/25/1946",
+        "birth_place": "Zacatecas, Mexico",
+        "favorite_song_id": [5,8],
+        "id" : 104
+      }
+    ]
+}

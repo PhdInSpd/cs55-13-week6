@@ -1,0 +1,60 @@
+{
+    "rancheras":[
+      {
+        "song":"hasta que te conoci",
+        "artist_id": [101],
+        "composer_id": [101],
+        "link": "https://www.youtube.com/watch?v=ga5Bo4YdgH4",
+        "id":1
+      },
+      {
+          "song":"Me gustas mucho",
+          "artist_id": [101],
+          "composer_id": [101],
+          "link": "https://www.youtube.com/watch?v=DwMQblx5HPc",
+          "id":2
+      },
+      {
+        "song":"Caray",
+        "artist_id": [101],
+        "composer_id": [101],
+        "link": "https://www.youtube.com/watch?v=4q4mvZLvMec",
+        "id":3
+      },
+      {        
+        "song":"esta noche voy a verla",
+        "artist_id": [101],
+        "composer_id": [101],
+        "link": "https://www.youtube.com/watch?v=PybjDyWnpd4",
+        "id":4
+      },
+      {        
+        "song":"triste recuerdo",
+        "artist_id": [103],
+        "composer_id": [104],
+        "link": "https://www.youtube.com/watch?v=MwzB_sXBZPA",
+        "id":5
+      },
+      {        
+        "song":"asi son los hombres",
+        "artist_id": [102],
+        "composer_id": [101],
+        "link": "https://www.youtube.com/watch?v=gX3hwCKX8YY",
+        "id":6
+      },
+      {
+        "song":"amor eterno",
+        "artist_id": [102],
+        "composer_id": [101],
+        "link": "https://www.youtube.com/watch?v=BzLFsD0Wi6I",
+        "id":7
+      },
+      {
+        "song":"el destino",
+        "artist_id": [101,102],
+        "composer_id": [101],
+        "link": "https://www.youtube.com/watch?v=w4yjZEVQnr0",
+        "id":8
+      }
+  ]
+}

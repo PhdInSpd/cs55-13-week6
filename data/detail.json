@@ -1,0 +1,44 @@
+{
+    "rancheras":[
+      {
+        "year_released": 1986,
+        "album":"Pensamientos",
+        "id":1
+      },
+      {
+        "year_released": 1978,
+        "album":"Canta a Juan Gabriel Volumen 2",
+          "id":2
+      },
+      {
+        "year_released": 1983,
+        "album":"Todo",
+        "id":3
+      },
+      {
+        "year_released": 1974,
+        "album":"Juan Gabriel con el Mariachi Vargas de Tecalitlán",
+        "id":4
+      },
+      {
+        "year_released": 2009,
+        "album":"Triste recuerdo",
+        "id":5
+      },
+      {
+        "year_released": 1997,
+        "album":"Juntos Otra Vez",
+        "id":6
+      },
+      {
+        "year_released": 1984,
+        "album":"Canta a Juan Gabriel",
+        "id":7
+      },
+      {
+        "year_released": 2014,
+        "album":"La Absoluta Coleccion",
+       "id":8
+      }
+  ]
+}
