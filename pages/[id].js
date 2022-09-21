@@ -65,7 +65,7 @@ export default function Entry( { itemData } ) {
                 </div>
             </article>
             <br></br>
-            <h2>the singer`&apos;`s favorite rancheras</h2>   
+            <h2>the singer&apos;s favorite rancheras</h2>   
             {/* render details about all other entities in persons.json related to id */}
             <div className="list-group col-6">        
                     { 
@@ -80,7 +80,7 @@ export default function Entry( { itemData } ) {
                     : null                  
                     }
             </div>
-            <h2>the composer`&apos;`s favorite rancheras</h2>   
+            <h2>the composer&apos;s favorite rancheras</h2>   
             {/* render details about all other entities in persons.json related to id */}
             <div className="list-group col-6">        
                     { 
