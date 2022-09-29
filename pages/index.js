@@ -5,7 +5,7 @@ import { getSortedList } from '../lib/data';
 
 // does eacht page have getStaticProps?
 export async function getStaticProps() {
-  const allData = getSortedList();
+  const allData = await getSortedList();
   return {
     props: {
       allData

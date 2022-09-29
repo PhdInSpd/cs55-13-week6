@@ -4,7 +4,7 @@ import { getAllIds, getData } from '../lib/data';
 import Layout from '../components/layout';
 // getStaticPaths() to report to next all possible dynamic urls
 export async function getStaticPaths() {
-    const allDynamicPaths = getAllIds();
+    const allDynamicPaths = await getAllIds();
     return {
         paths: allDynamicPaths,
         // 404 error related
@@ -97,20 +97,4 @@ export default function Entry( { itemData } ) {
             </div>
         </Layout>
     );
-}
-
-// artist is undefined from line 33
-function artistToString( {artist} ) {
-    let output = "";
-    if(!artist) {
-        return output;
-    }
-    if(artist.length == 0) {
-        return output;
-    }
-
-    for( let i =0 ; i<artist.length; i++) {
-        output += artist[i].toString();
-    }
-    return output;
 }

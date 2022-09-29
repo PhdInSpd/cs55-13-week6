@@ -4,7 +4,7 @@ import fs from 'fs';
 import path from 'path';
 
 const _dataDir = path.join( 
-                          // return cwd for node.js
+                          // return current working directory for node.js
                           process.cwd(),'data'
                           );
 // console.log( _dataDir );
